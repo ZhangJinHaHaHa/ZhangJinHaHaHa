@@ -1,3 +1,18 @@
+
+<div align="center">
+
+<!-- Animated Header -->
+<a href="https://github.com/ZhangJinHaHaHa">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zhang%20Jinghan&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Blockchain%20Researcher%20%C2%B7%20Agent%20Architect%20%C2%B7%20FinTech%20Innovator&descAlignY=55&descSize=18" alt="header" />
+</a>
+
+<!-- Typing Animation -->
+<a href="https://github.com/ZhangJinHaHaHa">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%7B+%22role%22%3A+%22Blockchain+Researcher+%40+BUPT%22+%7D;%7B+%22focus%22%3A+%5B%22On-Chain+Systems%22%2C+%22Agentic+UX%22%5D+%7D;%7B+%22mission%22%3A+%22Decentralize+trust%2C+amplify+intelligence.%22+%7D" alt="typing animation" />
+</a>
+</div>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Jinghan+Zhang+%F0%9F%91%8B;Blockchain+Researcher+%7C+AI+Agent+Architect;Bridging+Decentralization+%26+Intelligence" alt="Typing SVG" />
 </h1>
