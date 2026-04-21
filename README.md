@@ -54,7 +54,7 @@ const jinghan = {
     "📚 Paper reproduction & systematic literature review",
   ],
 
-  funFact: "Read 100+ papers. Reproduced most of the classics. Still hungry.",
+  funFact: "Recently, I have been working on projects such as agent auditing and dynamic update of agent reputation...",
 };
 ```
 
